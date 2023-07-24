@@ -1,76 +1,112 @@
 collections:
 - label: Abstractions
   data: abstractions.yml
+  image: https://img2.sigma.gallery/maritsaart/abstractions/a9e5c6d45250de4d85bbd4166ceb3620e492496b67383ff871b3cbb5285d4bab.webp
 - label: Altar
   data: altar.yml
+  image: https://img2.sigma.gallery/maritsaart/altar/d200d63974505752510a09a47048e82ba34c1c735712813cec323421b30f7828.webp
 - label: Animal cards
   data: animalcards.yml
+  image: https://img2.sigma.gallery/maritsaart/animal-cards/a88835682ba75bf1496926d04be558f3d87f822a768f63dc7a2a41208628af76.webp
 - label: Animal pop art
   data: animalpopart.yml
+  image: https://img2.sigma.gallery/maritsaart/animal-pop-art/8c25f0652ca09a6a60b00467521cd3e6d2faf742727a1d04982d72978a557493.webp
 - label: Blockchain market animals
   data: blockchainmarketanimals.yml
+  image: https://img2.sigma.gallery/maritsaart/blockchain-market-animals/5be53d37dc46a343b911effdd2d6acd0c00780108047fd2877840045b3c6a84f.webp
 - label: Characters
   data: characters.yml
+  image: https://img2.sigma.gallery/maritsaart/characters/19eac55a91fd0da331535a2bb90fc1251a60215e3a62f28eecccfc926ffe0d60.webp
 - label: Crypto holders
   data: cryptoholders.yml
+  image: https://img2.sigma.gallery/maritsaart/crypto-holders/7ddf7fa64377fa65831b80129d9ddacf520d3eda3f0c2e736477eb771f95174c.webp
 - label: Daggers
   data: daggers.yml
+  image: https://img2.sigma.gallery/maritsaart/daggers/1fe37a77570483e4740b111f1a5c84ae0c61486469c3036f90d43dc43988fe58.webp
 - label: Digital art. One of one
   data: digitalart.yml
+  image: https://img2.sigma.gallery/maritsaart/digital-art-one-of-one/88e72151181433248babd0544b384f46964ba6da6203414ae86137ad98202e14.webp
 - label: Ergo Hall of Fame
   data: ergohalloffame.yml
+  image: https://img2.sigma.gallery/maritsaart/ergo-hall-of-fame/4e0d35227b056325a7b71b5697bcba10d9e7f388f79ca338523482e3816b63f2.webp
 - label: Fast Food
   data: fastfood.yml
+  image: https://img2.sigma.gallery/maritsaart/fast-food/d1abdd022c368bb6e21e0bc1745ca3be092821934354f89d1b4b9b6d743454f8.webp
 - label: Female
   data: female.yml
+  image: https://img2.sigma.gallery/maritsaart/female/a18dd346876cba3a27484644360fceca5ca34f45270c6e8e942a122e7b69370e.webp
 - label: Forest 
   data: forest.yml
+  image: https://img2.sigma.gallery/maritsaart/forest/a03b7109608a09a63311f085d330d244a412bec5c5517879ddb9533e6262184b.webp
 - label: Girl with bouquet
   data: girlwithbouquet.yml
+  image: https://img2.sigma.gallery/maritsaart/girl-with-bouquet/fe4d83f84290b2c380c81195c26d66a7770c8907c49bdf91b426a592fb09b17e.webp
 - label: Guru
   data: guru.yml
+  image: https://img2.sigma.gallery/maritsaart/guru/94cf00c5c5a4ea8218bb8a78df4125bf9de4f0916204a64e9ff5c32b7a7da7b8.webp
 - label: Halloween
   data: halloween.yml
+  image: https://img2.sigma.gallery/maritsaart/halloween/859a73fea4d63644699966ecd894434c62323e141f88edaeac66775b8a470e80.webp
 - label: Hash Colored Glyphs
   data: hashcoloredglyphs.yml
+  image: https://img2.sigma.gallery/maritsaart/hash-colored-glyphs/77cbeadae169efc0a1d79d2dc7b47413f2cc41cad5d25873f5d0be22852f5927.webp
 - label: Hash Glyphs
   data: hashglyphs.yml
+  image: https://img2.sigma.gallery/maritsaart/hash-glyphs/871550761d21cb24df0034591f16209e609ba006f18b45331d397b7826c0c623.webp
 - label: Hash Sneakers
   data: hashsneakers.yml
+  image: https://img2.sigma.gallery/maritsaart/hash-sneakers/a4018470d45843a9bda184736c99f245ef6fc14d6d3fa0bdd7918ab2169ca83a.webp
 - label: Hobbies
   data: hobbies.yml
+  image: https://img2.sigma.gallery/maritsaart/hobbies/3d74e4269fd542eda4476d82674759a0698fa6a5d80c01871ebc54ce9de87d7f.webp
 - label: humanskulls
   data: humanskulls.yml
+  image: https://img2.sigma.gallery/maritsaart/humanskulls/352f8725b62ce9f50d2715dbebf7ffac0278b3ec3d754164a6cd7e9a42e72164.webp
 - label: Landscapes
   data: landscapes.yml
+  image: https://img2.sigma.gallery/maritsaart/landscapes/dbd218fce52db16bf25482e409b017095fbd10e76a3a26e3dc19c816f5e0b4d9.webp
 - label: Magic glade
   data: magicglade.yml
+  image: https://img2.sigma.gallery/maritsaart/magic-glade/d9b1132eb37316fff5cf877cea97517f080039a30b850a45b4b47fde92a5a762.webp
 - label: Mask Aboriginal
   data: maskaboriginal.yml
+  image: https://img2.sigma.gallery/maritsaart/mask-aboriginal/1842b52aeb994824dcb70b44fc2b4252087eb1a6d66af5dfd14f0ef517fba153.webp
 - label: Masks
   data: masks.yml
+  image: https://img2.sigma.gallery/maritsaart/masks/987d84c928e023c0c72707c0c2ba5522ba85241f630958b832b8637f1330518a.webp
 - label: Mermaids
   data: mermaids.yml
+  image: https://img2.sigma.gallery/maritsaart/mermaids/c7154e5673a0d8a8bc01285017c45a022767092b35f26a4232c4f808d1e2ffd0.webp
 - label: Microcircuits
   data: microcircuits.yml
+  image: https://img2.sigma.gallery/maritsaart/microcircuits/ea500d16107e9bc8b9dbda631368a40abed19bc55f465b0ef625707bc8cb69e8.webp
 - label: Monsters
   data: monsters.yml
+  image: https://img2.sigma.gallery/maritsaart/monsters/cc1d86f5cf601ae351fb85fa140e5f789354b56319d643d788b939ad0a31eded.webp
 - label: Nature
   data: nature.yml
+  image: https://img2.sigma.gallery/maritsaart/nature/a2e72ed5af389cc9a9e67847cdf201d8a7e2b2b48a1f7049bc4e072a03277e0e.webp
 - label: Nudes
   data: nudes.yml
+  image: https://img2.sigma.gallery/maritsaart/nudes/006a538d10e2af2316e6f31f41695f21d555d8a06093b345a8d7332e60b4dcd6.webp
 - label: Petroglyphs
   data: petroglyphs.yml
+  image: https://img2.sigma.gallery/maritsaart/petroglyphs/a890b5cc6df373c8416284c273c723b43be7dc88108bec3afccb71f7afc44d61.webp
 - label: Pets
   data: pets.yml
+  image: https://img2.sigma.gallery/maritsaart/pets/6269d0abc55a7455c7d15c2f76d0ab2d22856c8cf92a87a8cf0883b35c7eefec.webp
 - label: Pixel bugs
   data: pixelbugs.yml
+  image: https://img2.sigma.gallery/maritsaart/pixel-bugs/65cd75f97169fe555eb7684ee8517c3d679c4ee58fbd898dfd78ca465058fc47.webp
 - label: Portrait Cards
   data: portraitcards.yml
+  image: https://img2.sigma.gallery/maritsaart/portrait-cards/b8004a238f3726326240ad65ada5b606e38a3b8a941c5616e99bdf43fbe3f060.webp
 - label: Reproductions
   data: reproductions.yml
+  image: https://img2.sigma.gallery/maritsaart/reproductions/ab1c4e1a77a7b7f22a7499a890efb7df2fa0837417eb2e5edc52311e35a79860.webp
 - label: Space crypto
   data: spacecrypto.yml
+  image: 
 - label: Spirits
   data: spirits.yml
 - label: Stylized skulls
