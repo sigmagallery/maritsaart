@@ -1,0 +1,11 @@
+nfts:
+- tokenId: d1abdd022c368bb6e21e0bc1745ca3be092821934354f89d1b4b9b6d743454f8
+  name: 'Fast food #01. Burger'
+  description: 'Fast food #01. Burger. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifapunrwvgb5h5gnow7n4gvdv2si5axbxl4sgonvku2miwb3jhgl4
+- tokenId: d7933412438e1b3cf900aea4c3513402b03fdbf615ba96d5428ec7a56d44f453
+  name: 'Fast food #02. Burger'
+  description: 'Fast food #02. Burger. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiemshc3d5fh3fuigzvrrwew37pr5e3yol5cnmapsy3h6ildbwxet4

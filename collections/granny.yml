@@ -1,0 +1,10 @@
+nfts:
+- tokenId: 8377e1c84eb13481bd0b53e009fa317713e66001ba37551cf5bbc2c4e5b40010
+  name: 'Granny #1'
+  description: 'Granny #1. 2000x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/2vHc52b/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 5f58570c1668f1c23d5f312ab635bdd5a8fb0e10612f182a2113cdb61170a7ec
+  name: 'Granny #2'
+  description: 'Granny #2. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihz74juji7m7i2da6365bhbs6mhifklr7if2n7q3cbvy33n7ik77i

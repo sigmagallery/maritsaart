@@ -1,0 +1,25 @@
+nfts:
+- tokenId: a03b7109608a09a63311f085d330d244a412bec5c5517879ddb9533e6262184b
+  name: 'Forest #1'
+  description: 'Forest #1. 2000x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/ZMg5KDk/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 5a5f9ddcb28250d3c564bffa65cb69950e8820c9b4b12e18225fcc5e9953c4e7
+  name: 'Forest #2'
+  description: 'Forest #2. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiet7aphlu77txbrklvkzrbhcm42lf3diprg4bbzl7i767bwbdlb6i
+- tokenId: 6758ca37e97608bbc348cdbd9ff455b595b226ef172059add2c385b9aedfd704
+  name: 'Forest #3'
+  description: 'Forest #3. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidrunqe7nrduyot5hp7mo7ubirqrfktqmhuz2wj7l3c3fk55b2wg4
+- tokenId: 2268e5430d0328088ad9ab24bd9fdfdfc853b1568d88d7619901385a5fc73339
+  name: 'Forest #4'
+  description: 'Forest #4. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiagiqkbbxplgjkpb2o32vxrrj67poe3w2cwrste72gc2nk2rbeliq
+- tokenId: f347d8560d0f05a441b79679690fdd29cbcc33b8153285713dcfbb364519f041
+  name: 'Forest #5'
+  description: 'Forest #5. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieknm4tfnapoarkktkqleoytqg5mocurcqsozgnoyn2q7vnfmpnz4

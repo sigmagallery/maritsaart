@@ -1,0 +1,41 @@
+nfts:
+- tokenId: 3d74e4269fd542eda4476d82674759a0698fa6a5d80c01871ebc54ce9de87d7f
+  name: 'Hobby #01'
+  description: 'Hobby #01. Hunting. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieocucfl5r5x5sxiei3fhz3ao7zfm4jddcoxniiibu4uhy3gcf2qu
+- tokenId: fc542822572bb6f3859f2e672a7ffa9e730b02fb7c12824a7683c3da03e59e41
+  name: 'Hobby #02'
+  description: 'Hobby #02. Pottery. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicb4zivxkakp6acxgk4db6f7qmlfr5crhsfgzgt5rwvqxkpm5s3n4
+- tokenId: 1e9bab8ca7a71477196fa632188b8be05b159c7ba8098936773c2b86323380e5
+  name: 'Hobby #03'
+  description: 'Hobby #03. Reenactment. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihk6erab6fvgyxdnwueqjtnzfwhipgwbm5vsojs7lgbirslgkoptq
+- tokenId: 6e99dd52f67bc48df3bbe15089aca405c95636f8ded57a29e4b1de57af13ac26
+  name: 'Hobby #04'
+  description: 'Hobby #04. Fishing. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigtdyut7hrkvfq74yup2eemr5z4t6ksa5nqawvqkqtvzpn6thwyza
+- tokenId: 0504fdf84a8e0d5eab1710d3d402a24a968865c640f7ae9015efa8154eb96364
+  name: 'Hobby #05'
+  description: 'Hobby #05. Blacksmithing. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifbv4hsdg7ojt4a3cgzlr6477qlxgbn5p25ejim4efkmhoryvzrke
+- tokenId: f37fdf19505d0a860b683b13616fd52bf698a26d5bb00e4a5582e820cfe6b61b
+  name: 'Hobby #06'
+  description: 'Hobby #06. Yoga. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiamb5whjse4jkrhwc23zto7onrcojgr44vcvzjy2uccmscbwkzv64
+- tokenId: 51f42a2eda7fb5bdac597ad8f0a4be6d98197d846421fbe46102245988e6d4f6
+  name: 'Hobby #07'
+  description: 'Hobby #07. Tourism. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgoh4ptjwe2jiw5xjpvn3y5t5i7m7j63mp5gp7czsd7s3bsegw3y
+- tokenId: 6cab5bab0c49782e2c04ebc0688974acbc9c6a4eb4f2777779f245226179eb7c
+  name: 'Hobby #08'
+  description: 'Hobby #08. Dancing. 1500x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigj4t7wkyhafbdkgw2fsja6ufpjjby3dkz4teals2rgi5ibyuf3pe

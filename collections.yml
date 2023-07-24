@@ -1,0 +1,87 @@
+collections:
+- label: Abstractions
+  data: abstractions.yml
+- label: Altar
+  data: altar.yml
+- label: Animal cards
+  data: animalcards.yml
+- label: Animal pop art
+  data: animalpopart.yml
+- label: Blockchain market animals
+  data: blockchainmarketanimals.yml
+- label: Characters
+  data: characters.yml
+- label: Crypto holders
+  data: cryptoholders.yml
+- label: Daggers
+  data: daggers.yml
+- label: Digital art. One of one
+  data: digitalart.yml
+- label: Ergo Hall of Fame
+  data: ergohalloffame.yml
+- label: Fast Food
+  data: fastfood.yml
+- label: Female
+  data: female.yml
+- label: Forest 
+  data: forest.yml
+- label: Girl with bouquet
+  data: girlwithbouquet.yml
+- label: Guru
+  data: guru.yml
+- label: Halloween
+  data: halloween.yml
+- label: Hash Colored Glyphs
+  data: hashcoloredglyphs.yml
+- label: Hash Glyphs
+  data: hashglyphs.yml
+- label: Hash Sneakers
+  data: hashsneakers.yml
+- label: Hobbies
+  data: hobbies.yml
+- label: humanskulls
+  data: humanskulls.yml
+- label: Landscapes
+  data: landscapes.yml
+- label: Magic glade
+  data: magicglade.yml
+- label: Mask Aboriginal
+  data: maskaboriginal.yml
+- label: Masks
+  data: masks.yml
+- label: Mermaids
+  data: mermaids.yml
+- label: Microcircuits
+  data: microcircuits.yml
+- label: Monsters
+  data: monsters.yml
+- label: Nature
+  data: nature.yml
+- label: Nudes
+  data: nudes.yml
+- label: Petroglyphs
+  data: petroglyphs.yml
+- label: Pets
+  data: pets.yml
+- label: Pixel bugs
+  data: pixelbugs.yml
+- label: Portrait Cards
+  data: portraitcards.yml
+- label: Reproductions
+  data: reproductions.yml
+- label: Space crypto
+  data: spacecrypto.yml
+- label: Spirits
+  data: spirits.yml
+- label: Stylized skulls
+  data: stylizedskulls.yml
+- label: Sweets
+  data: sweets.yml
+- label: Treasure hunters
+  data: treasurehunters.yml
+- label: Vector Minimalism. Landscapes.
+  data: vectorminimalismlandscapes.yml
+- label: Vector Minimalism. Monuments.
+  data: vectorminimalismmonuments.yml
+- label: Tokenart. On-chain artworks.
+  data: tokenart.yml

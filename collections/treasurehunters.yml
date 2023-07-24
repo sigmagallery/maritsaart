@@ -1,0 +1,11 @@
+nfts:
+- tokenId: 834a8b08283b769d59b17a26786735961cb69f028921e6dca976f8584ef22a98
+  name: 'Treasure hunters #1'
+  description: 'Treasure hunters #1. 1500x2400 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaglmnyy4ga3yt4rg5b72z5s234a24r4wqyt2eksd27ep6cssm3di
+- tokenId: d385eddc4689396cc88dab0d22705e321c6836b94f0585791b5ef7a9df30a7a6
+  name: 'Treasure hunters #2'
+  description: 'Treasure hunters #2. 1500x2400 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidiuaun3pmzy5bp5zbjxqc25ccxxh7uldp2kga4hqgm7trihk5vkm

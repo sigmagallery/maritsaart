@@ -1,0 +1,10 @@
+nfts:
+- tokenId: c7154e5673a0d8a8bc01285017c45a022767092b35f26a4232c4f808d1e2ffd0
+  name: 'Mermaid #1'
+  description: 'Mermaid #1. 2000x2500 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/hXZtRQg/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: f081a382959d5a5139ece476a9c57a6e8cf37fa909b9088bc0af0963cf132832
+  name: 'Mermaid #2'
+  description: 'Mermaid #2. 2000x2500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeialzk75cuax6ilysyqs4stwupaxxwjrfexdptqbf6bsconek3tzju

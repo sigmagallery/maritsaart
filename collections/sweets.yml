@@ -1,0 +1,16 @@
+nfts:
+- tokenId: 91fbf5afe773b5c380a526b82de77fd92e5fefb18886400f7de1e915c2ea2b16
+  name: 'Sweets #01'
+  description: 'Sweets #01. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeib7hzrk7vofegugy72bkd3v6lnlg5kqbf5z35u64hkk4tqy2rnjpq
+- tokenId: 01b8326913cb1e1bc49f33938c35815647e9759cc920ec542cd5b052fabde71c
+  name: 'Sweets #02'
+  description: 'Sweets #02. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifgn74vs6py6rgj6eeqyotuawvl7grfgi547tojmauxj5wqpvi55e
+- tokenId: 7ad6a01bcf4455eee84ce052dee0f8cfe56feb573d543ef75745cbe5097ace75
+  name: 'Sweets #03'
+  description: 'Sweets #03. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifrxy7fm22j65siodef7c5nicz5puowj423otikkq4kpx26ejhajm

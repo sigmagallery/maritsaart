@@ -1,0 +1,16 @@
+nfts:
+- tokenId: 1fe37a77570483e4740b111f1a5c84ae0c61486469c3036f90d43dc43988fe58
+  name: 'Dagger #1'
+  description: 'Dagger #1. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifnhuifm42rdiqpo74njmyofu6zg5wpphe5septzhg7wsb2btr6ny
+- tokenId: 49bd3baa7138c5b7c4d5f651c0707022e90f2eb15a71c6714e1c2ae2685493b4
+  name: 'Dagger #2'
+  description: 'Dagger #2. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigeb6cshbmflmmywh5srg6oz3mlv4swp4ds7eu5hadl73jzswkmuy
+- tokenId: 30feac18748e794c3ecbf635f7c518587ae9976c68a08e105657d656b4e0d293
+  name: 'Dagger #3'
+  description: 'Dagger #3. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibcz57lhu5d7lrxhrwhebz526dcsi6b6autmtz5hl3m6dm64cz4je

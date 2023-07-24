@@ -1,0 +1,24 @@
+nfts:
+- tokenId: d9b1132eb37316fff5cf877cea97517f080039a30b850a45b4b47fde92a5a762
+  name: 'Magic glade #01'
+  description: 'Magic glade #01. Author and creator: maritsaart'
+  imageUrl: https://i.ibb.co/FHbtkpF/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 0367c3077df8bff8f3c5dc749edacf0ef3be1543de2863c110eecca2f1de9fe7
+  name: 'Magic glade #02'
+  description: 'Magic glade #02. Author and creator: maritsaart'
+  imageUrl: https://i.ibb.co/2dVbdrx/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 8a7d97ae7ede5055745d6036725f01c0b003801b9d82076c75aa0ad3387f976f
+  name: 'Magic glade #03'
+  description: 'Magic glade #03. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigmi7eaxt53ngqbbqyzbcakxfxvcuajxphlza2ojjthbubt254eby
+- tokenId: 678a9c47c2fcf25681023088e6fbbcc7100113b82797f9c6d6f82ccaf01f8640
+  name: 'Magic glade #04'
+  description: 'Magic glade #04. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibmtynz7afkz6cqvbvoiapt5sbfct2lavqck5b4cbvdfmd5upocmu
+- tokenId: 1ab6dbdaccbed7c3af35e999b681138fdf1de4b05d9b2ea81237d01802ff845f
+  name: 'Magic glade #05'
+  description: 'Magic glade #05. 1000x1000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibumkl3hpszo5plovusftoofob3jh4vts6inzn5q2lmnwgaxula5q

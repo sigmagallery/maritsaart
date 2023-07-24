@@ -1,0 +1,10 @@
+nfts:
+- tokenId: fe4d83f84290b2c380c81195c26d66a7770c8907c49bdf91b426a592fb09b17e
+  name: 'Girl with bouquet #1'
+  description: 'Girl with bouquet #1. 1250x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/m49z9qz/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 61abb5e80c12d4aa6af73f5abaf94996dc268d8cca6ed3be1508b6b4d66fc7d4
+  name: 'Girl with bouquet #2'
+  description: 'Girl with bouquet #2. 1250x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihpj7jv7tg6mnedhkego5b64aancen7xyjqccmmk3ckhj7boolvo4

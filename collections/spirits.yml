@@ -1,0 +1,16 @@
+nfts:
+- tokenId: bab5c7b6f414dd13e8fa084984431fbb0dc05fd40cff6862b4360227f380fb92
+  name: 'Spirit #1'
+  description: 'Spirit #1. 2700x3600 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiewypsmatc5somd2mrqrdsqgt6wypamlwf4xcjz7rta4hvnilm2vm
+- tokenId: b38bac11b023e1dab83f7c0c10f5047aa79d2ba8d79b820e2d3ff53f2e4ae94e
+  name: 'Spirit #3'
+  description: 'Spirit #3. 2700x3600 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidwxavgpaujd4sa43sgm6xf3sljqieq4pncy3swwkwbumau4qm7pq
+- tokenId: 2bd10623189a8e75dea17cc0b9c55627b7835a77f122e1673de11337052ab3c9
+  name: 'Spirit #7'
+  description: 'Spirit #7. 4500x6000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiac5awva75ekjbnvanazhi6xdl52qug55htpup4im3fg2zvmhm3qi

@@ -1,0 +1,44 @@
+nfts:
+- tokenId: a890b5cc6df373c8416284c273c723b43be7dc88108bec3afccb71f7afc44d61
+  name: 'Petroglyph #01'
+  description: 'Petroglyph #01. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeia7btermx4czsl24ckqvp5o4ncgcslab4o63qvur7ohchuwlvureu
+- tokenId: c3d4aa2eff1f95d1036f584e68ae1f0baacf3c6656beba6b3023c55a41f79ccf
+  name: 'Petroglyph #02'
+  description: 'Petroglyph #02. 1000x1500 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/z2FBFP9/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 2264b79559054eb570f90dd5ec9d7ed887fe076d8a5b1669a0924fc4fa05a95e
+  name: 'Petroglyph #03'
+  description: 'Petroglyph #03. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigokonocns4an3xobdk5mpwz52ryxpb3vjowg5qg4d4jug35bqewm
+- tokenId: b70b912047953cc4562dfe90c3c11cf3419e45c5d2260a6b0ed7969182ed47c3
+  name: 'Petroglyph #04'
+  description: 'Petroglyph #04. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibsazjpvkm43tlookjll4syi7vecxusrzqmrt7zilrdvdq7kqbn7e
+- tokenId: ddfb547be833f9132c9de040a2d4573e7fbca679f0977c44d2aacdc84f750ab7
+  name: 'Petroglyph #05'
+  description: 'Petroglyph #05. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeievhwcftiy4ca7damiczdi3ilszfhlf4yn7sn47cfwnvzeyrtrexu
+- tokenId: cc0c26623795a019ac832df6b01dc2aac0ead375ec5e42a103dc0daf9406c228
+  name: 'Petroglyph #06'
+  description: 'Petroglyph #06. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigzckxc4btlyezovuif6xifecq44l6kwkt24hqttrawkfsgbtrbde
+- tokenId: 55ad84ec0477b379f6fa282e4e06a7fd6a698d9fcbed49b8ea86e57d2dc9d2b9
+  name: 'Petroglyph #07'
+  description: 'Petroglyph #07. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreifxaa2x3tvfsdg25snwyuui3dd4hycz6jnfjl267trpw7jnqjj2dy
+- tokenId: 24954c651de4c6999d556e3bf0edaadfcc16b4f64d7f6184dcc1e30f5a2a512c
+  name: 'Petroglyph #10'
+  description: 'Petroglyph #10. 1000x1500 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/Bfv5s6R/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 4e4dcdf5f1a48025ecd417cc3025ad0a1a889c38f8557348ab38673d1b6db88b
+  name: 'Petroglyph #11'
+  description: 'Petroglyph #11. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidduatxnhfcumbxh3o34v7ipxjeu7u5vdseznmaxsjfiiuuhqwis4

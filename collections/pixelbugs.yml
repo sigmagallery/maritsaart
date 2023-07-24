@@ -1,0 +1,50 @@
+nfts:
+- tokenId: 65cd75f97169fe555eb7684ee8517c3d679c4ee58fbd898dfd78ca465058fc47
+  name: 'Pixel bug #0002'
+  description: >-
+    Pixel bug #0002. Bug is a collectible character created using pixel art.
+    Author @maritsaart
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibhrkp7djfekfzzip5mfuya2awejtxm4y3y4qhy2uq6rlrzw4bfly
+- tokenId: 49ac5ded8bd96790418b4cb8a2c06b3073f3487106e7b71de7fbe900ea6bceb9
+  name: 'Pixel bug #0003'
+  description: 'Pixel bug #0003. Pixel art. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreif7frmiwoypkbpqznbpf2bnvr5qptdpmm2y64yy4ls6rukp6hzaz4
+- tokenId: 937def7a3d5749c315d57be074dcc313212836a81675ef1ff2b243c2b1b36c52
+  name: 'Pixel bug #0011'
+  description: 'Pixel bug #0011. Pixel art. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidtba5oimmqegnepsecf5bjnvw5dh2cud4x5nook3ripdpmpyyuaq
+- tokenId: 7596545de66dcd5a8853d42710616e363c1c1b5f474a9d7c3d0f589853e87dda
+  name: 'Pixel bug #0012'
+  description: 'Pixel bug #0012. Pixel art. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreic5wj7ozbd7uuqstjwswbpynnbqf4dj5twqrwagonu5e57vmsi5lm
+- tokenId: a4c60d621f56bb8cd0ef1fb3424b47f33e659a0607e2e64fdc8a93077c170572
+  name: 'Pixel bug #0013'
+  description: >-
+    Pixel bug #0013. Bug is a collectible character created using pixel art.
+    Author @maritsaart
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiabofyuk7mknjexvcebnw2zev2ctziv5rc6j4swcx6xhph4js4lcm
+- tokenId: 66f6c16046e8ac8924d2f1816d486883200258fb1a644b9f9ffe7acb63cb0d2c
+  name: 'Pixel bug #0016'
+  description: >-
+    Pixel bug #0016. Bug is a collectible character created using pixel art.
+    Author and creator: maritsaart
+  imageUrl: https://i.ibb.co/mHDvgD6/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 002318e5949a3c44603dc595369de5d74a91f73981fa5e17f1fa2f67fadd9c4b
+  name: 'Pixel bug #0017'
+  description: >-
+    Pixel bug #0017. Bug is a collectible character created using pixel art.
+    Author and creator: maritsaart
+  imageUrl: https://i.ibb.co/tq06GFq/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 9c8e3e46cba65e94a817604c43c2fdd8a008a2d584e5ae62326a9997fef57a76
+  name: 'Pixel bug #0019'
+  description: 'Pixel bug #0019. Pixel art. 1500x1500 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/vLJkPGV/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: f8accdd02dbfefc3fbb086634fa1c4a09b38a61a5970bc8e61ba4d32c85026e5
+  name: 'Pixel bug #0020'
+  description: 'Pixel bug #0020. Pixel art. 300x300 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/0JsqCXd/NFT-on-the-ERGO-blockchain.jpg

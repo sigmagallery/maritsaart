@@ -1,0 +1,42 @@
+nfts:
+- tokenId: a88835682ba75bf1496926d04be558f3d87f822a768f63dc7a2a41208628af76
+  name: 'Animal cards #1'
+  description: 'Animal cards #1. Сamel. 2000x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/jGJHcqh/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 00d4610a3181e4adf84190018c38ec5ebe23e4f5c81ea73e2d6b995372d100f2
+  name: 'Animal cards #2. Rooster'
+  description: 'Animal cards #2. Rooster. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieulrl3zaky7f2ih52c22a2z7nc7vhe2iyphm7knfufneaq2j2u6i
+- tokenId: 5e44f20e625fedeb4dc9187a110265fa0d9397feb74ddc983a33579f94dab125
+  name: 'Animal cards #3'
+  description: 'Animal cards #3. Elephant. 2000x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/JBX4zJs/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 1375c7564c46de0be97be7c5ca814a8d519d77634107f99331e4709b4a49731c
+  name: 'Animal cards #4. Dog'
+  description: 'Animal cards #4. Dog. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiduslrmeiyksp3fjan47revqpydnlryygme2iv6gcwa73n3jirrou
+- tokenId: bb0c8a6463cc7ac016950a43a3097414ec2d0f24cac38026b55504ff93a10385
+  name: 'Animal cards #5. Bear'
+  description: 'Animal cards #5. Bear. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigkftbyx7rnn6hwnhn5hhjh4dlwdxdfzemcic7hb2kpzdhm7jfyve
+- tokenId: 317b3792cada13d97e70d04270048942ca660fa5ccfb939799a8ab7a466b1c7b
+  name: 'Animal cards #6'
+  description: 'Animal cards #6. Cat. 2000x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/pR4M6jk/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 1169f32f9016f2662bf4440cfece31f6b4be2f2f73673223c4ac6a87e9a9132c
+  name: 'Animal cards #7'
+  description: 'Animal cards #7. Bird. 2000x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/BVY0FSp/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 0e1bd355790838d107b1b7db1c542cc64f603b3b6405139928c26e5358fede0b
+  name: 'Animal cards #8. Ram'
+  description: 'Animal cards #8. Ram. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeics7nzgewfauboob22nau3fu63qgpcuasw6yslssvpdqfdjgnfvy4
+- tokenId: 85a5ab227f67e4fe90ec980115c840d9ea455cc98e419cfa4612c0f45c41fb7f
+  name: 'Animal cards #9'
+  description: 'Animal cards #9. Monkey. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeie2ycaqmyj6mcyicxrxmzoer4mxpcz6z67xxaxdcs72cl5djtevw4

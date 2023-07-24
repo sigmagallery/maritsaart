@@ -1,0 +1,37 @@
+nfts:
+- tokenId: 474de51e4d5c2b28e3589528679aee5ea74ce59e19462077aa3bff82e0314cd2
+  name: 'Stylized skull #0005'
+  description: 'Stylized skull #0005. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreia5xb4qyvmfdye63lxispma4t6ou2turai5qtepg6zuhcrfpe4alu
+- tokenId: d4873f11a5c7cfb3fa4686d302f2d761407d518576411de7a74d9df0a722ab24
+  name: 'Stylized skull #0011'
+  description: 'Stylized skull #0011. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibmadc4ecvssgvr3wvpzovsm2eqs4melsn3h5rcxoaxry46euu75a
+- tokenId: 652dc52c1c785bc6bcb22ea326fa241a54077aaacf78e94bc03e16fffc08de50
+  name: 'Stylized skull #0013'
+  description: 'Stylized skull #0013. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreia5db2xkrtjfvq3hzbf3l4pttnqm7bqr4syd76k35kea5ucr3lm3m
+- tokenId: e8d825328d541ccdc6ef0658d5f2e93aab1e315bd6bd4cfd5394250f4d9d5b09
+  name: 'Stylized skull #0041'
+  description: 'Stylized skull #0041. Author and creator: maritsaart'
+  imageUrl: https://i.ibb.co/hskbMBZ/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: dec04053bc18c34a71f98e94189eac38bcd10073a1d12f48951e941ea20b4c1a
+  name: 'Stylized skull #0042'
+  description: 'Stylized skull #0042. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaylvrxyk44yfvmzgnsdtavq5lp7pr3q3kk5heimcs23f6wzh5v4e
+- tokenId: 252b2b850ba8ae180cd8433b9a789e78eb9a87d261fe341568ab90b3f1ab6464
+  name: 'Stylized skull #0043'
+  description: 'Stylized skull #0043. Author and creator: maritsaart'
+  imageUrl: https://i.ibb.co/9VFV1Yg/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 9d6f28a4275f0a36abf0342f4d9688e82566eb54a4fafccaf58554f46eeac1ea
+  name: 'Stylized skull #0044'
+  description: 'Stylized skull #0044. Author and creator: maritsaart'
+  imageUrl: https://i.ibb.co/DfVdtkz/NFT-on-the-ERGO-blockchain.jpg
+- tokenId: 969ee1f286924e25afed9e2089d702d49333d443b1ea9356052b57d7894f3dbe
+  name: 'Stylized skull #0045'
+  description: 'Stylized skull #0045. Author and creator: maritsaart'
+  imageUrl: https://i.ibb.co/hVB7vS2/NFT-on-the-ERGO-blockchain.jpg

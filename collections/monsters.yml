@@ -1,0 +1,46 @@
+nfts:
+- tokenId: cc1d86f5cf601ae351fb85fa140e5f789354b56319d643d788b939ad0a31eded
+  name: 'Monster #1'
+  description: 'Monster #1. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihgretsbfjpmgidbxm4zsmuy7dog2pkhqk6ahfw3cp2opmmq6id2e
+- tokenId: 420a7400886d3f7ab91b8ce2e1c00a23bd4d98be0ee88ca46a64cc2bf7699737
+  name: 'Monster #2'
+  description: 'Monster #2. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiddpydvki3tlghbdhrhueyxn7t6cf7j3wl3uljnwfbkpmnnmlt6vm
+- tokenId: 40515fd12d569e877bd88406a6a78540ad17a3d8ddd8e4f200914b3f22e676a6
+  name: 'Monster #3'
+  description: 'Monster #3. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiafpx2o7jn2gnu3mdhxjnhugxeynddir7cahoyltz7fqcnvviw4rq
+- tokenId: 7f90ccd6b7b84fdcb105cfdcbef3c5f7b38709c8e5f4b6f47e32879e08219d5c
+  name: 'Monster #4'
+  description: 'Monster #4. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreie625i3vyoycutyjro6qk4kqtyow5gc5u3qysejtcq5q3gevgc62i
+- tokenId: 5f129d8eb1585b67dcba644ee61f11e22347b7ea936b5559a95acba726c8b3ee
+  name: 'Monster #5'
+  description: 'Monster #5. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreidp6ounlirk6beehof6p5mzmrokso2gxks7cglfr5zzqwrkydftou
+- tokenId: e63ddb0d7e1fcadde13a2bef504ec99bb041d32a689614513df3accbd6164d77
+  name: 'Monster #6'
+  description: 'Monster #6. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreih3qlzvin3c6a4byxwuayizcxdqljbd3srd7hoya55ijy734l3qjm
+- tokenId: 9f769782c37b21ed93a1bc8d900b69b0bf3370a65f97001bd5164b9f5f559f54
+  name: 'Monster #7'
+  description: 'Monster #7. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiecxfw4hhnvipgebej3nbbvev6ucuk52kzn4npnveq32cwnppcorm
+- tokenId: c2aa0d7e178bd1b7ead3bc50744ac634011c95526dd547addaac0fc27349116c
+  name: 'Monster #8'
+  description: 'Monster #8. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreihutnv45d4476hndo3jqad7i5krieddbw7wfysub4wgecugwk5ruy
+- tokenId: 8c8a61e42005b93a7eaeef978dd69c388ee9eac9ea4ffefa4f21ca8c80c5985e
+  name: 'Monster #9'
+  description: 'Monster #9. 1500x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreid6ucwg4aly65wn6zbus6npqwhjpte4qvykp2hal7rv2kof7aktra

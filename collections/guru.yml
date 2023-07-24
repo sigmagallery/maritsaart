@@ -1,0 +1,31 @@
+nfts:
+- tokenId: 94cf00c5c5a4ea8218bb8a78df4125bf9de4f0916204a64e9ff5c32b7a7da7b8
+  name: 'Guru #01'
+  description: 'Guru #01. Man with blue eyes. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifygtf4bu2bzylcfadc37qcjymwgwmrh6stk6falcjdy6j5wb7owi
+- tokenId: e218498785ac90b9e932f8decc7ab374c6184c00b203640bb60cc1bbfc2f5b8a
+  name: 'Guru #02'
+  description: 'Guru #02. Man with closed eyes. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifudxnxzwavd2gflrktsih2wfqd6zpof7lekbbveqelz3i7sdnjje
+- tokenId: cb737e01b837645e318fa1a4224cd96b6e326fa516c6bbb7a9665ee97b638623
+  name: 'Guru #03'
+  description: 'Guru #03. Man with red eyes. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiecimyw45kgrcthgrauztsjjzpgu66m37vpgh4mpmuaf3lyuwyeoy
+- tokenId: 792d14e2105dd72391d78b40fd02906eed08d0f25fc6c4bf29e1ce279f90ce57
+  name: 'Guru #04'
+  description: 'Guru #04. Man with yellow eyes. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihng2bqs6whpng75weer6u353xsyyl3qazv2sdi635mzukqjun5za
+- tokenId: 8c54a3a0215318c473c6dcdb2c5ec638f7456a1711ddc26b36b31280c5bf49f4
+  name: 'Guru #05'
+  description: 'Guru #05. Man on red background. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibr4flhl2jnaybdbwr7ypppeja3cxo2of3xvpyxll2p3ryedr7t6e
+- tokenId: bd528721523588adbba561f36c22c313e66877a055c638d28234dea55ee40f77
+  name: 'Guru #06'
+  description: 'Guru #06. Man with white eyes. 3000x3000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibkyltyyq5l7qtkeyt6qvsvlughkiclgswnbvi2pb3hjf7v7uydmq

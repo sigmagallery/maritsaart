@@ -1,0 +1,10 @@
+nfts:
+- tokenId: 7ddf7fa64377fa65831b80129d9ddacf520d3eda3f0c2e736477eb771f95174c
+  name: 'Crypto holder #01. Whale'
+  description: 'Crypto holder #01. Whale. 2000x2000 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibyodc5jd3ijkn3rg6zdh757kipldzqoxpy7wgzz6i5tojozy7mnm
+- tokenId: 5a46ed957f1ac6112e0682089f41262086c789daf1a846fc9cb53db8c59cc8ec
+  name: 'Crypto holder #05. Octopus'
+  description: 'Crypto holder #05. Octopus. 2000x2000 px. Author @maritsaart'
+  imageUrl: https://i.ibb.co/RYpkhsb/NFT-on-the-ERGO-blockchain.jpg
