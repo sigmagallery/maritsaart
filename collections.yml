@@ -60,7 +60,7 @@ collections:
 - label: Hobbies
   data: hobbies.yml
   image: https://img2.sigma.gallery/maritsaart/hobbies/3d74e4269fd542eda4476d82674759a0698fa6a5d80c01871ebc54ce9de87d7f.webp
-- label: humanskulls
+- label: Human Skulls
   data: humanskulls.yml
   image: https://img2.sigma.gallery/maritsaart/humanskulls/352f8725b62ce9f50d2715dbebf7ffac0278b3ec3d754164a6cd7e9a42e72164.webp
 - label: Landscapes
