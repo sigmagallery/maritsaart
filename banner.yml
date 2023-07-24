@@ -1,5 +1,5 @@
 title: Maritsa Art
-description: Maritsa Art's hand-drawn NFT collections
+description: "Maritsa Art's hand-drawn NFT collections"
 image: ""
 mintAddresses:
   - 9gsiBLZowvDWtZ7wHuWZmv58LFqMfCEW4XepV9AYtr7HofPhFqJ
@@ -14,10 +14,10 @@ bannerLinks:
     icon: fa-brands fa-discord fa-fw
   - label: Telegram
     url: https://t.me/maritsaart
-    icon: fa-brands fa-discord fa-fw
+    icon: fa-brands fa-telegram fa-fw
   - label: Instagram
     url: https://www.instagram.com/maritsaart/
     icon: fa-brands fa-instagram fa-fw
   - label: Website
     url: https://linktr.ee/maritsaart
-    icon: fa-solid fa-globe fa-fw
+    icon: fa-solid fa-tree fa-fw
