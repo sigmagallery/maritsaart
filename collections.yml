@@ -64,7 +64,7 @@ collections:
   image: https://img2.sigma.gallery/maritsaart/hobbies/3d74e4269fd542eda4476d82674759a0698fa6a5d80c01871ebc54ce9de87d7f.webp
 - label: Human Skulls
   data: humanskulls.yml
-  image: https://img2.sigma.gallery/maritsaart/humanskulls/352f8725b62ce9f50d2715dbebf7ffac0278b3ec3d754164a6cd7e9a42e72164.webp
+  image: https://img2.sigma.gallery/maritsaart/human-skulls/352f8725b62ce9f50d2715dbebf7ffac0278b3ec3d754164a6cd7e9a42e72164.webp
 - label: Landscapes
   data: landscapes.yml
   image: https://img2.sigma.gallery/maritsaart/landscapes/dbd218fce52db16bf25482e409b017095fbd10e76a3a26e3dc19c816f5e0b4d9.webp
