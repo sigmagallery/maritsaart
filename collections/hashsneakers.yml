@@ -4,22 +4,27 @@ nfts:
   description: 'Hash Sneakers #01. Black. 500x500 px. Author @maritsaart'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreifxd6n7pvu5wmcgbyfitvma5clw4iqycym634ytzv3rdhlj7rgaem
+  format: gif
 - tokenId: 54de9ca1d97fd34bd0493b7156da26f8bc0cbab21a8ba957563194ec572c80cd
   name: 'Hash Sneakers #02'
   description: 'Hash Sneakers #02. Green. 500x500 px. Author @maritsaart'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreibytindxhjpsbeqicahos5uf5qhlc46m5afqvx6jlyhlooiniu5cq
+  format: gif
 - tokenId: 1a822cbd9d0b6a2b3e9ef3aa345acaa43a27e7ffdcb78f5560ab99daca30d234
   name: 'Hash Sneakers #03'
   description: 'Hash Sneakers #03. Red. 500x500 px. Author @maritsaart'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreidlgedekjsgly2fwl62yofwecddb45hxpzqikrc5gs227kns4z4ny
+  format: gif
 - tokenId: 8136403667c5c4b5841f71de7a04f94c386a55a492b7b4db339b4b2debe66e08
   name: 'Hash Sneakers #04'
   description: 'Hash Sneakers #04. Yellow. 500x500 px. Author @maritsaart'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafkreihij4uduakkbceugrnscbag2l7wjnlbjyvyrm2nyy73qzhzixl66y
+  format: gif
 - tokenId: 1dfe9101d94c2eedd3efabb50847f824ad3271864e9e5a4444152b64994cd78f
   name: 'Hash Sneakers #05'
   description: 'Hash Sneakers #05. Burgundy. Author and creator: maritsaart'
   imageUrl: https://i.ibb.co/cN3YfRk/Hash-Sneakers-05-Burgundy.gif
+  format: gif
