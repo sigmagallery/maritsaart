@@ -17,6 +17,7 @@ nfts:
   description: 'Female #04. Author and creator: maritsaart'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeictyvfeij3qqy5cpadgpmcbvyl6y3n7efuporyhn3rgnh5f4hfmsu
+  format: gif
 - tokenId: 0015790c58886f1295f3da71bf82ac1982ca354d264eb87507095cb989f663d9
   name: 'Female #05'
   description: 'Female #05. Pop art portrait of a girl. 4000x4000 px. Author @maritsaart'
