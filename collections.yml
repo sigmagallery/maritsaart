@@ -58,7 +58,7 @@ collections:
   description: "Seamless prints"
 - label: Hash Sneakers
   data: hashsneakers.yml
-  image: https://gateway.ipfs.io/ipfs/bafkreidlgedekjsgly2fwl62yofwecddb45hxpzqikrc5gs227kns4z4ny
+  image: https://img2.sigma.gallery/maritsaart/hash-sneakers/1a822cbd9d0b6a2b3e9ef3aa345acaa43a27e7ffdcb78f5560ab99daca30d234.webp
 - label: Hobbies
   data: hobbies.yml
   image: https://img2.sigma.gallery/maritsaart/hobbies/3d74e4269fd542eda4476d82674759a0698fa6a5d80c01871ebc54ce9de87d7f.webp
@@ -110,7 +110,7 @@ collections:
   description: "PFP collection"
 - label: Reproductions
   data: reproductions.yml
-  image: https://i.ibb.co/KwVTcTL/Girl-with-a-Pearl-Earring.gif
+  image: https://img2.sigma.gallery/maritsaart/reproductions/e0c61828c7511db13e98526a9a33a31e15768df9feab48c3df682206aa9a482c.webp
   description: "Hand-drawn pixel art, not 'Pixelate' filter"
 - label: Space crypto
   data: spacecrypto.yml
