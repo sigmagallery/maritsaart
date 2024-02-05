@@ -42,3 +42,18 @@ nfts:
   description: 'Petroglyph #11. 1000x1500 px. Author @maritsaart'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeidduatxnhfcumbxh3o34v7ipxjeu7u5vdseznmaxsjfiiuuhqwis4
+- tokenId: b1e7e2a1ec06d1d40ffb82ff102f7754b11437049c0c63836381d3a8bd66f166
+  name: 'Petroglyph #12'
+  description: 'Petroglyph #12. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifb2evoo6kch6vdxmvpziuepwu3lka5rqs6vaoqyya6eddb27bun4
+- tokenId: 71bf7904a2f6e8cc7c4ad41dbac442025da0b823b61341ca2950baaacf788663
+  name: 'Petroglyph #13'
+  description: 'Petroglyph #13. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibk7bw5y3ay4eciqomtwtd2hwi3h3kekd4z46iuzp2goxhmmkf4ja
+- tokenId: e96d00a0e3153558b10c9f358b7f9f0a6b4dc0f47e34999238a7331fcc140696
+  name: 'Petroglyph #14'
+  description: 'Petroglyph #14. 1000x1500 px. Author @maritsaart'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeia6a6w7qnaf5uvjl3o2ceyhr4yguxzneu2jsdiqkylhcp7ygujrzu
