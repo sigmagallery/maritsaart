@@ -42,6 +42,9 @@ collections:
 - label: Girl with bouquet
   data: girlwithbouquet.yml
   image: https://img2.sigma.gallery/maritsaart/girl-with-bouquet/fe4d83f84290b2c380c81195c26d66a7770c8907c49bdf91b426a592fb09b17e.webp
+- label: Granny
+  data: granny.yml
+  image: https://i.ibb.co/2vHc52b/NFT-on-the-ERGO-blockchain.jpg
 - label: Guru
   data: guru.yml
   image: https://img2.sigma.gallery/maritsaart/guru/94cf00c5c5a4ea8218bb8a78df4125bf9de4f0916204a64e9ff5c32b7a7da7b8.webp
